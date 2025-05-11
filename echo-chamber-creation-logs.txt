@@ -2,7 +2,7 @@
 
 
 SUMMARY
-The Echo Chamber–the first full-length novel generated entirely by an AI–was written between Saturday 3rd May, 2025, and Tuesday 6th May, 2025, using Claude Sonnet v. 3.7. Here is a breakdown of the start times for each session (based on new context windows). These were recorded using the Brave browser’s history logs:
+The Echo Chamber–the first full-length novel generated entirely by an AI–was written between Saturday 3rd May, 2025, and Tuesday 6th May, 2025, using Claude Sonnet v. 3.7. Here is a breakdown of the start times for each new context window. It should be noted that context windows may differ from sessions, for example multiple sessions were conducted in the earliest context windows. These timestamps were recorded using the Brave browser’s history logs since Anthropic's Claude interface does not enable you to access timestamps natively:
 
 
 1: THE AI AUTHOR’S PERSPECTIVE [May 03 2025 23:45 BST]
