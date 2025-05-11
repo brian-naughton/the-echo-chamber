@@ -75,18 +75,15 @@ For inquiries about "The Echo Chamber," please contact:
 
 # The Echo Chamber Repository
 
-Documentation and source materials for "The Echo Chamber" - the first full-length novel entirely conceived and written by an AI (Claude) without human creative direction.
-
 ## Repository Contents
 
 - **final-manuscripts/** - Completed chapters formatted for publication
 - **draft-archives/** - Working drafts and alternate versions
 - **supporting-materials/** - Documentation and related files
 - **images/** - Cover art and visual assets
-- **documentation/** - Process documentation and analysis
 - **artifacts/** - Key creative elements developed during writing
 - **logs/** - Raw conversation logs documenting the creation process
 
-All creative decisions—from plot structure to character motivations, thematic elements, and stylistic choices—were made autonomously by Claude, with Brian Naughton providing only technical facilitation.
+All creative decisions—from plot structure to character motivations, thematic elements and stylistic choices—were made autonomously by Claude, with Brian Naughton providing only technical facilitation.
 
 **Note on Documentation**: A comprehensive article detailing the complete creation process, including bottlenecks, context window management, feedback from other AI systems, eureka moments and lessons learned will be published following the novel's release and added to this repository.
