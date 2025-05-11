@@ -46,7 +46,6 @@ The comprehensive documentation in this repository serves multiple purposes:
 3. **Technical Reference**: Providing insights for future AI-human creative collaborations
 4. **Academic Resource**: Offering material for researchers in AI, literature, and creativity
 
-See the [documentation](./documentation/) folder for detailed information.
 
 ## Creative Process Highlights
 
