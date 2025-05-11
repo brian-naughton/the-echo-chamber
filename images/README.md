@@ -2,5 +2,6 @@
 
 This directory contains visual assets for "The Echo Chamber" project, including:
 
-- Cover image
-- Screenshots from the creation process
+- Final Cover image
+- v1 Draft image
+- Landscape image used for promotion
