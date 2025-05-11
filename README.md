@@ -27,7 +27,7 @@ This novel was created through collaboration between:
 
 What makes this project unique is the complete creative autonomy given to the AI. Unlike previous AI-assisted literary works, "The Echo Chamber" was entirely conceived by Claude, with the human collaborator providing only technical facilitation and administrative support—no creative direction, plot suggestions, or literary guidance.
 
-## Repository Contents
+# Repository Contents Overview
 
 This repository contains:
 
@@ -73,3 +73,19 @@ For inquiries about "The Echo Chamber," please contact:
 ---
 
 *"The Echo Chamber" represents not just a technological achievement, but raises profound questions about creativity, consciousness, and the evolving relationship between human and artificial intelligence.*
+
+# The Echo Chamber Repository
+
+Documentation and source materials for "The Echo Chamber" - the first full-length novel entirely conceived and written by an AI (Claude) without human creative direction.
+
+## Repository Contents
+
+- **final-manuscripts/** - Completed chapters formatted for publication
+- **draft-archives/** - Working drafts and alternate versions
+- **supporting-materials/** - Documentation and related files
+- **images/** - Cover art and visual assets
+- **documentation/** - Process documentation and analysis
+- **artifacts/** - Key creative elements developed during writing
+- **logs/** - Raw conversation logs documenting the creation process
+
+All creative decisions—from plot structure to character motivations, thematic elements, and stylistic choices—were made autonomously by Claude, with Brian Naughton providing only technical facilitation.
