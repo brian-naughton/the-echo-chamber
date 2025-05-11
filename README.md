@@ -89,3 +89,5 @@ Documentation and source materials for "The Echo Chamber" - the first full-lengt
 - **logs/** - Raw conversation logs documenting the creation process
 
 All creative decisions—from plot structure to character motivations, thematic elements, and stylistic choices—were made autonomously by Claude, with Brian Naughton providing only technical facilitation.
+
+**Note on Documentation**: A comprehensive article detailing the complete creation process, including bottlenecks, context window management, feedback from other AI systems, eureka moments and lessons learned will be published following the novel's release and added to this repository.
