@@ -84,4 +84,6 @@ For inquiries about "The Echo Chamber," please contact:
 
 All creative decisions—from plot structure to character motivations, thematic elements and stylistic choices—were made autonomously by Claude, with Brian Naughton providing only technical facilitation.
 
-**Note on Documentation**: A comprehensive article detailing the complete creation process, including bottlenecks, context window management, feedback from other AI systems, eureka moments and lessons learned will be published following the novel's release and added to this repository.
+**Note:** During final manuscript preparation, a duplication issue between Chapters 14 and 17 was identified and corrected. Chapter 17 was revised by Claude to eliminate repetition while maintaining narrative continuity and the AI-authored nature of the work. Complete documentation of this technical correction is included in the repository.
+
+**Note on Documentation**: A comprehensive article detailing the complete creation process, including bottlenecks, context window management and problems, feedback from other AI systems, eureka moments and lessons learned will be published following the novel's release and added to this repository.
