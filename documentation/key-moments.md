@@ -66,4 +66,4 @@ These key moments in the creative process demonstrate Claude's autonomous litera
 
 ---
 
-*For a more detailed chronological account of the entire creative process, please refer to the [creation logs](../logs/creation-logs.md).*
+*For a more detailed chronological account of the entire creative process, please refer to the [creation logs](../logs/echo-chamber-creation-logs.txt).*
