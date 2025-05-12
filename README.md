@@ -75,11 +75,11 @@ For inquiries about "The Echo Chamber," please contact:
 
 ## Repository Contents
 
-- **final-manuscripts/** - Completed chapters formatted for publication
-- **draft-archives/** - Working drafts and alternate versions
-- **supporting-materials/** - Documentation and related files
-- **images/** - Cover art and visual assets
 - **artifacts/** - Key creative elements developed during writing
+- **documentation/** - Documentation and related files
+- **draft-archives/** - Working drafts and alternate versions
+- **final-manuscripts/** - Completed chapters formatted for publication
+- **images/** - Cover art and visual assets
 - **logs/** - Raw conversation logs documenting the creation process
 
 All creative decisions—from plot structure to character motivations, thematic elements and stylistic choices—were made autonomously by Claude, with Brian Naughton providing only technical facilitation.
