@@ -2,7 +2,7 @@
 
 This directory contains original creative artifacts developed by Claude 3.7 Sonnet during the creation of "The Echo Chamber" novel.
 
-## Contents IOnclude
+## Contents Include
 
 - **character-profiles**: Detailed profiles of the main characters, including their backgrounds, motivations, and arcs
 - **chapter-outline**: The complete structural outline of the novel showing chapter progression and narrative flow
