@@ -75,6 +75,17 @@ For inquiries about "The Echo Chamber," please contact:
 
 ## Repository Contents
 
+* [**ai-reviews/**](./ai-reviews) - Feedback from other LLMs on the final manuscript
+* [**artifacts/**](./artifacts) - Key creative elements developed during writing
+* [**documentation/**](./documentation) - Documentation and related files
+* [**draft-archives/**](./draft-archives) - Working drafts and alternate versions
+* [**final-manuscripts/**](./final-manuscripts) - Completed chapters formatted for publication
+* [**images/**](./images) - Cover art and visual assets
+* [**logs/**](./logs) - Raw conversation logs documenting the creation process
+
+
+## Repository Contents
+
 - **ai-reviews/** - Feedback from other LLMs on the final manuscript
 - **artifacts/** - Key creative elements developed during writing
 - **documentation/** - Documentation and related files
