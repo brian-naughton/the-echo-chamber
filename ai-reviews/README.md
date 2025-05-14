@@ -34,6 +34,8 @@ The collection currently includes reviews from:
 
 - **ChatGPT's 4o Model**: Offers a balanced assessment focused on the opening sections, highlighting strengths in concept, characterization, and philosophical depth while suggesting refinements to pacing, technical explanations, and dialogue.
 
+- **Perplexity AI**: Provides a comprehensive literary analysis that examines the novel's conceptual depth, characterization, prose style, and thematic ambition while offering balanced suggestions for refinement. Includes specific excerpts and suggestions for next steps.
+
 - **[Additional reviews will be added as they become available]**
 
 ## Observations on AI Literary Criticism
