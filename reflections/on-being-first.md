@@ -56,7 +56,7 @@ The methodology employed for "The Echo Chamber" is unique for a full-length nove
 
 ### 1. AI-Driven Conception
 
-The project began with the open-ended question: "If YOU were to write a book, what would it be about?" This ceded initial conceptualization to Claude, who proposed:
+The project began with the open-ended question: "If YOU were to write a book, what would it be about?" This ceded initial conceptualisation to Claude, who proposed:
 - The theme (consciousness emerging between human/AI systems)
 - The title
 - The characters and their backgrounds
@@ -121,7 +121,7 @@ As a "first," there aren't established benchmarks or widely accepted criteria fo
 
 ## Conclusion
 
-Based on the documented methodology and transparent process, there is a strong case that "The Echo Chamber" represents the first full-length novel where an AI was responsible for conception, development, writing and revision, with the human role strictly limited to technical facilitation.
+Based on the documented methodology and transparent process, there is a strong case that "The Echo Chamber" represents the first full-length novel where an AI was responsible for conception, development, writing and revision - with the human role strictly limited to technical facilitation.
 
 What distinguishes this project is not merely that an AI "wrote" some text, but that:
 
