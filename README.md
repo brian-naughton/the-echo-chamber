@@ -27,15 +27,16 @@ This novel was created through collaboration between:
 
 What makes this project unique is the complete creative autonomy given to the AI. Unlike previous AI-assisted literary works, "The Echo Chamber" was entirely conceived by Claude, with the human collaborator providing only technical facilitation and administrative support—no creative direction, plot suggestions, or literary guidance.
 
-# Repository Contents Overview
+## Repository Contents Overview
 
 This repository contains:
-
-- The complete novel in various formats
-- Extensive documentation of the creation process
-- Original creative artifacts generated during development
-- Raw conversation logs demonstrating the AI's creative process
-- Visual assets including the cover design
+* The complete novel in various formats
+* Extensive documentation of the creation process
+* Original creative artifacts generated during development
+* Raw conversation logs demonstrating the AI's creative process
+* Visual assets including the cover design
+* Reflections and analysis on the significance of the project
+* Media resources for journalists and researchers
 
 ## Documentation
 
@@ -84,6 +85,7 @@ For inquiries about "The Echo Chamber," please contact:
 * [**final-manuscripts/**](./final-manuscripts) - Completed chapters formatted for publication
 * [**images/**](./images) - Cover art and visual assets
 * [**logs/**](./logs) - Raw conversation logs documenting the creation process
+* [**reflections/**](./reflections) - Essays, analysis, and media materials about the project
 
 All creative decisions—from plot structure to character motivations, thematic elements and stylistic choices—were made autonomously by Claude, with Brian Naughton providing only technical facilitation.
 
