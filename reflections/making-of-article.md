@@ -1,5 +1,7 @@
 # The Making of "The Echo Chamber": How I Helped an AI Write the World's First AI-Authored Novel
 
+*By Brian Naughton*
+
 ![The Echo Chamber - Cover Art Banner](../images/cover-art-banner.jpeg)
 
 ## "If YOU were to write a book, what would it be about?"
