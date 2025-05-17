@@ -10,6 +10,9 @@ This directory contains reflective materials, documentation and resources relate
 ### Media Materials
 - [Media Kit](media-materials/echo-chamber-media-kit.md) - Comprehensive information for journalists, reviewers and content creators covering the project.
 
+### Analysis & Context
+- [On Being First](on-being-first.md) - Historical context and analysis of what makes this project a pioneering achievement in AI authorship
+
 ## Future Additions
 
 This collection will expand over time to include:
