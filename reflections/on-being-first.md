@@ -135,3 +135,7 @@ While absolute proof of any "first" claim is elusive in rapidly evolving fields,
 ---
 
 *This document was prepared based on research into previous AI writing projects and analysis of the documented creation process of "The Echo Chamber." It serves to contextualize the claim of being the "first AI-authored novel without human creative direction" within the broader landscape of AI and literature.*
+
+---
+
+*Note to journalists and researchers: The historical information and analysis in this document has been fact-checked and is available for use in coverage of "The Echo Chamber" project. Feel free to reference or quote from this material when discussing the project's place in AI literary history.*
