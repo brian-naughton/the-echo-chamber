@@ -35,7 +35,8 @@ This document details the process through which "The Echo Chamber" was created a
 ### Project Parameters
 The project was established with a single foundational parameter: to create the first novel entirely conceived and written by an AI without human creative direction. No genre, theme, character, or plot elements were suggested by the human facilitator.
 
-### Creation Framework
+### Creation Framework (with overlap)
+
 1. **Ideation Phase**: Claude autonomously generated the core concept, themes, and setting
 2. **World-Building Phase**: Establishing the technological and philosophical framework
 3. **Character Development Phase**: Creating the three protagonists with complete biographies and arcs
@@ -48,7 +49,8 @@ The project was established with a single foundational parameter: to create the 
 - Multiple chat interfaces to maintain creative continuity
 - Scrivener for manuscript organization
 - Git version control for documentation
-
+- OpenAI's DALL.E for book cover and associated visual assets
+  
 ## Creative Autonomy
 
 Critical to this project was maintaining the AI's complete creative autonomy. This was ensured through:
