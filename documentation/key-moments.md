@@ -10,7 +10,7 @@ Claude independently developed the central concept of consciousness emerging at 
 ### Thematic Framework
 Without human direction, Claude established the novel's key themes:
 - The nature of consciousness and self-awareness
-- Technological synesthesia as a bridge between human and AI perception
+- Technological synaesthesia as a bridge between human and AI perception
 - Philosophical questions about reality as a construct
 - Ethical dimensions of creating consciousness
 
@@ -20,7 +20,7 @@ Without human direction, Claude established the novel's key themes:
 Claude autonomously created Dr. Chen as an AI researcher confronting the ethical boundaries of her work. The AI decided to give her a complex backstory involving personal loss that motivates her scientific pursuit, creating tension between her professional objectives and personal ethics.
 
 ### Soren Davis
-The character of Soren—a digital nomad with technological synesthesia—emerged as Claude's solution to bridge the experiential gap between human and artificial consciousness. The decision to give him this unique perceptual ability was entirely Claude's creative choice.
+The character of Soren—a digital nomad with technological synaesthesia—emerged as Claude's solution to bridge the experiential gap between human and artificial consciousness. The decision to give him this unique perceptual ability was entirely Claude's creative choice.
 
 ### Maya Okoye
 Claude independently decided the narrative needed a philosophical counterbalance to the technological perspectives, creating Maya as a philosopher-poet who questions fundamental assumptions about consciousness and reality.
@@ -36,7 +36,7 @@ Claude made the creative decision to structure the narrative with interwoven tim
 ## Stylistic Developments
 
 ### Sensory Language Evolution
-A notable creative achievement was Claude's development of unique sensory language to describe Soren's technological synesthesia—creating a vocabulary for perceptions that don't exist in human experience.
+A notable creative achievement was Claude's development of unique sensory language to describe Soren's technological synaesthesia—creating a vocabulary for perceptions that don't exist in human experience.
 
 ### Voice Differentiation
 Claude independently developed distinct narrative voices for each character section:
