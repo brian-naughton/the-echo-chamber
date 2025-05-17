@@ -4,7 +4,7 @@
 
 ## The Claim in Context
 
-"The Echo Chamber" is described as "the world's first full-length novel entirely conceived, outlined, written, and revised by an AI without human creative direction." This is a specific claim with several qualifying elements that distinguish it from previous AI-text generation projects:
+"The Echo Chamber" is described as "the world's first full-length novel entirely conceived, outlined, written and revised by an AI without human creative direction." This is a specific claim with several qualifying elements that distinguish it from previous AI-text generation projects:
 
 1. **Full-length novel** (45,000 words with coherent narrative structure)
 2. **Entirely conceived by the AI** (not following a human-provided concept)
@@ -121,9 +121,9 @@ As a "first," there aren't established benchmarks or widely accepted criteria fo
 
 ## Conclusion
 
-Based on the documented methodology and transparent process, there is a strong case that "The Echo Chamber" represents the first full-length novel where an AI was responsible for conception, development, writing, and revision, with the human role strictly limited to technical facilitation.
+Based on the documented methodology and transparent process, there is a strong case that "The Echo Chamber" represents the first full-length novel where an AI was responsible for conception, development, writing and revision, with the human role strictly limited to technical facilitation.
 
-What distinguishes this project is not merely that an AI "wrote" text, but that:
+What distinguishes this project is not merely that an AI "wrote" some text, but that:
 
 1. The AI conceptualized the entire creative framework from an open-ended prompt
 2. The human facilitator maintained a strict policy of non-interference in creative decisions
