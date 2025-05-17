@@ -16,7 +16,7 @@ As a writer and AI enthusiast, I'd been using AI tools to assist with my creativ
 
 I had conducted similar experiments with image generation, asking Midjourney to create "award-winning photographs of absolutely nothing" – deliberately leaving space for the AI to reveal something of its own underlying structures and tendencies.
 
-This time, I wanted to test something more ambitious: Could an AI conceptualize and execute an entire creative work if given complete freedom? Not as a co-author or assistant following human direction, but as the primary creative force?
+This time, I wanted to test something more ambitious: Could an AI conceptualise and execute an entire creative work if given complete freedom? Not as a co-author or assistant following human direction, but as the primary creative force?
 
 ## The Process: Technical Facilitation, Not Creative Collaboration
 
