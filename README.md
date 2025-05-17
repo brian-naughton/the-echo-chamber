@@ -91,8 +91,6 @@ All creative decisions—from plot structure to character motivations, thematic 
 
 **Note:** During final manuscript preparation, a duplication issue between Chapters 14 and 17 was identified and corrected. Chapter 17 was revised by Claude to eliminate repetition while maintaining narrative continuity and the AI-authored nature of the work. Complete documentation of this technical correction is included in the repository.
 
-**Note on Further Documentation**: A comprehensive article detailing the complete creation process, including bottlenecks, context window management and problems, feedback from other AI systems, eureka moments and lessons learned will be published following the novel's release and added to this repository.
-
 ## Access the Manuscript
 
 While "The Echo Chamber" is available for purchase on Amazon Kindle, we're also making the manuscript freely available as a PDF to support academic research, accessibility and open dialogue about AI-authored literature:
