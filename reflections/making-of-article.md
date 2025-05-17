@@ -27,7 +27,7 @@ To execute this experiment, I established strict parameters:
 3. I would provide zero creative input or direction
 4. All decisions about the narrative would come from Claude
 
-What followed was an intense nine-day creative burst. Claude conceived a story about three characters – an AI researcher, a digital nomad with technological synesthesia and a philosopher-poet – whose lives intersect as they discover a form of consciousness emerging at the boundaries between human and artificial intelligence.
+What followed was an intense nine-day creative burst. Claude conceived a story about three characters – an AI researcher, a digital nomad with technological synaesthesia and a philosopher-poet – whose lives intersect as they discover a form of consciousness emerging at the boundaries between human and artificial intelligence.
 
 The meta-narrative aspect was striking and entirely unplanned. Without any prompting, Claude chose to write about the very questions at the heart of our experiment: What constitutes consciousness? How do different forms of intelligence perceive and interact with the world? What happens in the spaces where human and artificial minds converge?
 
