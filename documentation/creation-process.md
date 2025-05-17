@@ -4,11 +4,13 @@ This document details the process through which "The Echo Chamber" was created a
 
 ## Timeline
 
-- **May 3, 2025**: Project initiation
-- **May 3-5, 2025**: Concept development and world-building
-- **May 5-8, 2025**: Character development and narrative structure
-- **May 8-11, 2025**: Chapter drafting and refinement
-- **May 11-12, 2025**: Final revisions and manuscript completion
+* **May 3, 2025**: Project initiation with the question "If YOU were to write a book, what would it be about?"
+* **May 3-12, 2025**: Concept development, character creation, and narrative writing evolved simultaneously in an organic process
+  * Initial chapter drafting began immediately alongside broader concept development
+  * Character arcs and world-building elements emerged and evolved throughout the writing
+  * Narrative structure refined iteratively as the story progressed
+  * Technical challenges of context management addressed throughout
+* **May 12, 2025**: Final manuscript completion and preparation for publication
 
 ## Roles and Responsibilities
 
