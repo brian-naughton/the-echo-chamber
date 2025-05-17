@@ -89,7 +89,7 @@ For inquiries about "The Echo Chamber," please contact:
 
 All creative decisions—from plot structure to character motivations, thematic elements and stylistic choices—were made autonomously by Claude, with Brian Naughton providing only technical facilitation.
 
-**Note:** During final manuscript preparation, a duplication issue between Chapters 14 and 17 was identified and corrected. Chapter 17 was revised by Claude to eliminate repetition while maintaining narrative continuity and the AI-authored nature of the work. Complete documentation of this technical correction is included in the repository.
+**Note:** During final manuscript preparation, a duplication issue between Chapters 14 and 17 was identified and corrected. This was caused by a context window overload issue. Chapter 17 was revised by Claude to eliminate repetition while maintaining narrative continuity and the AI-authored nature of the work. Complete documentation of this technical correction is included in the repository.
 
 ## Access the Manuscript
 
