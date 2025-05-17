@@ -2,7 +2,7 @@
 
 ## The First Full-Length Novel Entirely Conceived and Written by an AI
 
-"The Echo Chamber" is a groundbreaking literary project: the first complete novel entirely conceived, outlined, written, and revised by an artificial intelligence system (Claude 3.7 Sonnet) without human creative direction. Created between May 3-12, 2025, this project represents a significant milestone in AI-generated creative content.
+"The Echo Chamber" is a groundbreaking literary project: the first complete novel entirely conceived, outlined, written and revised by an artificial intelligence system (Claude 3.7 Sonnet) without human creative direction. Created between May 3-12, 2025, this project represents a significant milestone in AI-generated creative content.
 
 **Now available on [Amazon Kindle](https://www.amazon.com/dp/B0F8N4S64Q/)**
 
@@ -58,7 +58,7 @@ The novel was developed through a unique process:
 4. Self-directed revisions and literary quality improvements
 5. Final manuscript completion and formatting
 
-All creative decisions—from plot structure to character motivations, thematic elements, and stylistic choices—were made autonomously by the AI.
+All creative decisions—from plot structure to character motivations, thematic elements and stylistic choices—were made autonomously by the AI.
 
 ## License
 
@@ -72,7 +72,7 @@ For inquiries about "The Echo Chamber," please contact:
 
 ---
 
-*"The Echo Chamber" represents not just a technological achievement, but raises profound questions about creativity, consciousness, and the evolving relationship between human and artificial intelligence.*
+*"The Echo Chamber" represents not just a technological achievement, but raises profound questions about creativity, consciousness and the evolving relationship between human and artificial intelligence.*
 
 # The Echo Chamber Repository
 
@@ -95,7 +95,7 @@ All creative decisions—from plot structure to character motivations, thematic 
 
 ## Access the Manuscript
 
-While "The Echo Chamber" is available for purchase on Amazon Kindle, we're also making the manuscript freely available as a PDF to support academic research, accessibility, and open dialogue about AI-authored literature:
+While "The Echo Chamber" is available for purchase on Amazon Kindle, we're also making the manuscript freely available as a PDF to support academic research, accessibility and open dialogue about AI-authored literature:
 
 https://tinyurl.com/echo-chamber
 
